@@ -1,6 +1,6 @@
 
 # read input
-f = open('input.txt')
+f = open('inputs/input_a.txt')
 depths = f.readlines()
 f.close()
 
